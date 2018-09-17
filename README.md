@@ -1,2 +1,3 @@
 # mydata
 firstdata
+print("hello!")
